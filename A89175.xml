@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The miseries of vvar. By a Lover of truth and peace: and by him dedicated to all that are such.</title>
+            <author>Norton, John, 1606-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89175</idno>
+            <idno type="STC">Wing M2246</idno>
+            <idno type="STC">Thomason E85_13</idno>
+            <idno type="STC">ESTC R4068</idno>
+            <idno type="EEBO-CITATION">99872592</idno>
+            <idno type="PROQUEST">99872592</idno>
+            <idno type="VID">125033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125033)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The miseries of vvar. By a Lover of truth and peace: and by him dedicated to all that are such.</title>
+                  <author>Norton, John, 1606-1663.</author>
+                  <author>Calver, Edward, fl. 1649, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Vavasor,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Calver in the Wrenn catalogue.</note>
+                  <note>Annotation on Thomason copy: "Jan: 17 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125033:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <p>THE MISERIES OF VVAR. By a lover of TRVTH AND PEACE:</p>
+            <p>And by him Dedicated to all that are ſuch.</p>
+            <q>
+               <bibl>REVEL. 13.10.</bibl>
+               <p>He that killeth with the ſword, muſt be killed with the ſword.</p>
+            </q>
+            <p>Printed for <hi>Nicholas Vavaſor.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125033:2"/>
+            <!-- PDF PAGE 18 -->
+            <pb n="1" facs="tcp:125033:2"/>
+            <!-- PDF PAGE 18 -->
+            <head>THE MISERIES OF VVARR.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider our late loſt hap<g ref="char:EOLhyphen"/>pineſſe of a bleſſed <hi>Peace,</hi> and the heavy preſſures of this pre<g ref="char:EOLhyphen"/>ſent <hi>Warre;</hi> I find it hard to judge, which of them may bee juſtly called our greateſt affliction: but both being laid together (ſure I am) harder miſ<g ref="char:EOLhyphen"/>fortune nere befell a Nation. And yet I find a ſort of <hi>Salamander</hi> ſpirits (in what torrid
+<pb n="2" facs="tcp:125033:3"/>
+               <!-- PDF PAGE 19 -->flames of curſed contention nouriſht, I can<g ref="char:EOLhyphen"/>not tell) that will admit of nought that ſounds of <hi>Peace;</hi> but cry downe all accom<g ref="char:EOLhyphen"/>modation, unleſſe their owne prodigious fancies (conditions worſe then Warre) may be the ingredients.</p>
+            <p>But let ſuch <hi>Jncendiaries</hi> take heede leaſt they <hi>fall into the Pit that they themſelves have digged:</hi>
+               <note place="margin">E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cl. 10.8</note> For who may in common preſump<g ref="char:EOLhyphen"/>ſition be more juſtly charged to be the Au<g ref="char:EOLhyphen"/>thors, and Fomenters of Warre, then ſuch as ſhall oppoſe a Peace? I have beene very inquiſitve to know, what may bee the true ground of this unnaturall Warre; the moſt, and moſt diſcreet, to whom I have pro<g ref="char:EOLhyphen"/>pounded that Queſtion, Ingeniouſly confeſſe, they are ignorant of it: Others; that will be ignorant of nothing, and ſcarſe rightly un<g ref="char:EOLhyphen"/>derſtand any thing; will tell you the cauſe as readily, as if they were the Founders of it. Yet I cannot meet with any two of them that concurre in the ſame particular, onely thus farre they agree in the generall, that it is for the maintenance of the <hi>Proteſtant Reli<g ref="char:EOLhyphen"/>gion,</hi> and the <hi>Lawes</hi> of the <hi>Land.</hi>
+            </p>
+            <p>Why, this is pretended on both ſides? But if that bee the quarrell, certainely the Queſtion hath beene hitherto miſtaken, or at leaſt, miſ ſtated; for neither <hi>Law</hi> nor <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> are any ways oppoſite to <hi>Peace.</hi>
+            </p>
+            <p>
+               <hi>Warre</hi> and the <hi>Law</hi> are inconſiſtent, for
+<pb n="3" facs="tcp:125033:3"/>
+               <!-- PDF PAGE 19 -->the <hi>Law</hi> hath its very ſubſiſtence by <hi>Peace,</hi> whence the rule is, <hi>Inter arma ſilent leges,</hi> that is, The Lawes are dumbe in time of Warre; and the Prophet <hi>David</hi> tels us,<note place="margin">Pſal. 35.10</note> that <hi>Righte<g ref="char:EOLhyphen"/>ouſneſſe and Peace have kiſſed each other.</hi> Now <hi>Righteouſneſſe</hi> in the Latine Tranſlation is ren<g ref="char:EOLhyphen"/>dred <hi>Juſtitia,</hi> which is <hi>Iustice,</hi> and every man, that underſtands any thing, knowes that <hi>Right</hi> or <hi>Iuſtice</hi> is the fruit and ende of the <hi>Lawe.</hi>
+            </p>
+            <p>And in an other place you may heare the ſame Prophet ſpeaking to God himſelfe, ſay<g ref="char:EOLhyphen"/>ing, <hi>Great Peace have they that love thy Law.</hi>
+               <note place="margin">Pſa. 119.165</note> So you ſee <hi>Law</hi> and <hi>Peace</hi> ſtill coupled toge<g ref="char:EOLhyphen"/>ther. And through the whole Scripture I find no <hi>Warring Law,</hi> but that which the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> ſpeakes of, ſaying,<note place="margin">Rom. 7.23</note> 
+               <hi>I ſee annother law in my members, warring againſt the Law of my minde, and bringing me into captivity to the law of ſinne, which is in my members.</hi> And how good this <hi>warring law</hi> is, you may perceive by the Text. Now for <hi>Religion,</hi> which is onely the <hi>ſer<g ref="char:EOLhyphen"/>vice of God,</hi> the holy Scriptures will plentiful<g ref="char:EOLhyphen"/>ly informe you, what relation and affinity that hath with <hi>Peace.</hi> For there you ſhall find God ſtiled, <hi>the God of Peace.</hi> And againe,<note place="margin">Phil. 4.9 2 Cor. 13.. 1 Iſa 9.6.</note> 
+               <hi>The God of Love and Peace.</hi> Our bleſſed Saviour is cal<g ref="char:EOLhyphen"/>led, <hi>The Prince of Peace.</hi> In the Epiſtle to the <hi>Gallatians,</hi> it is ſaid,<note place="margin">Gal. 5.22.23</note> 
+               <hi>The fruit of the Spirit is love, joy, peace, long ſuffering, gentleneſſe, good<g ref="char:EOLhyphen"/>neſſe, faith, meekeneſſe, temperance: againſt ſuch
+<pb n="4" facs="tcp:125033:4"/>
+                  <!-- PDF PAGE 20 -->there is no law.</hi> And the ſame Apoſtle in his Epiſtle to the <hi>Epheſians,</hi> farther ſaith, <hi>I there<g ref="char:EOLhyphen"/>fore the Priſoner of the Lord,</hi>
+               <note place="margin">Ephe. 4.1, 2, 3</note> 
+               <hi>beſeech you, that ye walke worthy of the vocation wherewith yee are called: with all lowlineſſe and meekeneſſe, with long ſuffering, forbearing one another in love, endeavouring to keepe the unity of the Spirit in the bond of Peace.</hi> And in the ſame Epiſtle, <hi>Chriſts Goſpell</hi> is called <hi>The Goſpell of Peace.</hi> God calls his Covenant,<note place="margin">Epheſ 6 15.</note> 
+               <hi>The Covenant of Peace.</hi>
+               <note place="margin">Iſa 54 10</note> Our bleſſed Saviour in his Sermon upon the Mount, pronounces no ſmall bleſ<g ref="char:EOLhyphen"/>ſing on the <hi>Peacemaker. Bleſſed</hi> (ſaith he) <hi>are the Peacemakers,</hi>
+               <note place="margin">Matth 5.9</note> 
+               <hi>for they ſhall be called the chil<g ref="char:EOLhyphen"/>dren of God.</hi> And the <hi>Pſalmiſt</hi> tells us, that <hi>The Lord will bleſſe his people with Peace.</hi>
+               <note place="margin">Pſal. 29.11</note> The wiſeſt of men tell us, <hi>To the Counſellors of Peace is joy.</hi>
+               <note place="margin">Prov. 12.20</note> How often are we commanded in the Holy Scriptures,<note place="margin">Mark. 9 50 2 Cor. 13 11. 1 Theſ. 5 13 Pſal 122.6 Zach 8.19 <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 34.14. &amp; 1 Pe. 3.1</note> 
+               <hi>To have Peace one with another. To live in Peace. To be at Peace among our ſelves. To pray for Peace. To love Peace. To ſeeke Peace and enſue it.</hi>
+            </p>
+            <p>And is <hi>God</hi> the <hi>God of Peace?</hi> and doe they not feare his heavy judgements to bee de<g ref="char:EOLhyphen"/>nounced againſt them, and his dreadfull wr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th and indignation to bee ſhoured downe upon them, who ſhall preſume to Preach or Petition againſt a Peace? Is Chriſt the Prince of Peace? and can they thinke themſelves his Subjects, and deſire a Warre? Are the fruits of the Spirit <hi>Love</hi> and <hi>Peace?</hi> and can
+<pb n="5" facs="tcp:125033:4"/>
+               <!-- PDF PAGE 20 -->any man thinke himſelfe moved, or inſpired with the Spirit, who ſhall live in hatred, or oppoſe a Peace? Sure it muſt be with that <hi>lying ſpirit</hi> that perſwaded <hi>Ahabs Prophets.</hi>
+               <note place="margin">1 Kin. 22.22</note> Is the Goſpell a Goſpell of Peace? Then cer<g ref="char:EOLhyphen"/>tainely his Religion cannot bee founded up<g ref="char:EOLhyphen"/>on that Goſpell, who ſhall not love and ſeeke Peace. Is <hi>Peace</hi> a bleſſing? Is the <hi>Peace<g ref="char:EOLhyphen"/>maker</hi> bleſſed? and ſhall hee bee called the childe of God? Accurſed muſt he then be, and (it is to be feared) little better then the childe of the Devill, who breathes out no<g ref="char:EOLhyphen"/>thing but <hi>Warre.</hi>
+            </p>
+            <p>But ſome of theſe <hi>Botefeus,</hi> ſeeking to var<g ref="char:EOLhyphen"/>niſh over their blood-thirſty deſires with a pretended inclination to peace, ſay, they refuſe it not, ſo as it may be accompanied with truth. Tis well ſaid, I wiſh it were as truely meant. He muſt be a man of a very eaſie credulitie that can aſſent to credit it; for I dare with con<g ref="char:EOLhyphen"/>fidence affirme, and I beleeve the whole King<g ref="char:EOLhyphen"/>dome (beſides their owne faction) will unani<g ref="char:EOLhyphen"/>mouſly agree, that more <hi>lyes</hi> and <hi>falcities</hi> have fallen from the pennes of theſe kinde of men, within leſſe then theſe two yeares, then ever were committed to the Preſſe, ſince Prin<g ref="char:EOLhyphen"/>ting was invented.</p>
+            <p>Indeede, I thinke their deſires of <hi>Peace</hi> and <hi>Truth,</hi> are equall; but let ſuch take heede by <hi>Ananias</hi> and <hi>Saphiras</hi> judgements.<note place="margin">Act. 5.1. &amp;c.</note> And I hope this Kingdome will beware how they
+<pb n="6" facs="tcp:125033:5"/>
+               <!-- PDF PAGE 21 -->credit ſuch Ieſuiticall gulleries, leaſt in ſtead of a pretended <hi>truth,</hi> we finde a certaine <hi>ruine;</hi> Were ſuch men enforced to be the actors, which are the greateſt ſticklers for this bloody warre, we had then ſome hopes of a happie peace, and conſequently of <hi>truth,</hi> ever a better friend to <hi>peace,</hi> then <hi>warre.</hi>
+            </p>
+            <p>We were indeede too happie in our late Peace, which made us forget our God, the giver of that bleſſing, and thereby juſtly cal<g ref="char:EOLhyphen"/>led downe, his heavie vengeanee of a Civill Warre, for our ingratitude. We had then, a <hi>Land flowing with milke and honey;</hi>
+               <note place="margin">Exod 3.8. Pſal. 144.14.</note> there was <hi>no complaining in our ſtreetes:</hi> but each man ſit<g ref="char:EOLhyphen"/>ting under the ſhade of his owne Vine, might without feare <hi>eat of his owne figtree,</hi>
+               <note place="margin">Iſa. 36.16.</note> 
+               <hi>and drinke the waters of his owne ceſterne.</hi> How richly habi<g ref="char:EOLhyphen"/>ted were almoſt all rankes and degrees of peo<g ref="char:EOLhyphen"/>ple? In our Saviours time, <hi>thoſe that wore ſoft cloathing were in Kings houſes:</hi>
+               <note place="margin">Mat. 11.8.</note> but in the time of our late peace, it was to be found al<g ref="char:EOLhyphen"/>moſt in every peſſants Cottage, ſilkes were the ware of every ordinary perſon; wee ac<g ref="char:EOLhyphen"/>counted him a very meane tradeſ-man, that could not put his wife into a ſilke gowne and a beaver; nay, were not the wives of many Citizens of ordinary trades, habited in as rich Sattin, and bone-lace, adorned with as many orient peales, faire diamonds, and other je<g ref="char:EOLhyphen"/>wels of value, as might well become a queen? and yet now paradventure would gladly part
+<pb n="7" facs="tcp:125033:5"/>
+               <!-- PDF PAGE 21 -->with them, to be ſecured ſuſtinance for them<g ref="char:EOLhyphen"/>ſelves and families.</p>
+            <p>How munificent were we in our buildings with ſtately Turrets, ſeeming to threaten the very clouds? many of them already left deſ<g ref="char:EOLhyphen"/>ſolate without an inhabitant, and how great pitty is it to ſee ſuch ſtately Fabrickes level<g ref="char:EOLhyphen"/>led with the ground? How did we abound in rich furniture, coſtly hangings, couches, bed<g ref="char:EOLhyphen"/>ding, and the like; maſſie plate, and other gal<g ref="char:EOLhyphen"/>lant houſe-hold-ſtuffe, already become a prey to the mercileſſe ſouldiers, even thoſe that pre<g ref="char:EOLhyphen"/>tend to fight for us. What curious gardens, brave orchards, faire meddowes, rich paſtures, and fruitfull corne fields, are now ruined, de<g ref="char:EOLhyphen"/>faced, and unmanured? Indeede wee did a<g ref="char:EOLhyphen"/>bound in all things that plenty could afford, or curioſity invent; we had health, wealth, pleaſure, profit, now turned to ſickneſſe, pe<g ref="char:EOLhyphen"/>nury, paine and mourning. Parents then in<g ref="char:EOLhyphen"/>joyed the deare pledges of their love, their children; children their loving parents, friends and neighbours mutually happie in each others ſociety, ſo that nothing was wanting to our felicity.</p>
+            <p>But this bloody tyrant Warre, hath put a period to all our joyes, all our happineſſe. <hi>Monſtrum horrendum informe ingens:</hi> that huge horrible, ugly Monſter. <hi>Horreſco referens,</hi> I tremble to ſpeake of it. When <hi>David</hi> had
+<pb n="8" facs="tcp:125033:6"/>
+               <!-- PDF PAGE 22 -->committed that great ſinne againſt the Lord in numbring the people, and as a puniſhment for it, was to ſubmit to his choice of three heavie judgements, choſe either <hi>Peſtilence,</hi> or <hi>Famine,</hi> then that of the <hi>Sword,</hi> which he knew had no mercy. <hi>Let us</hi> (ſaith he) <hi>now fall in<g ref="char:EOLhyphen"/>to the hand of the Lord (for his mercies are great) and let me not fall into the hands of man.</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam 24.14</note> Warre is one of Gods greateſt Plagues, his feareful<g ref="char:EOLhyphen"/>leſt judgements, his heavieſt ſcourges upon a Nation: for how ugly is the viſage of it? how manifold are the miſeries of it? Eſpeci<g ref="char:EOLhyphen"/>ally that of a civill warre, as ours is in this Kingdome.</p>
+            <p>Man, created after Gods owne image, de<g ref="char:EOLhyphen"/>ſtroying the image of his Creator; Chriſtian moſt unchriſtianly ſlaughtring his brother in Chriſt: nay, Proteſtants linckt by a nearer tye of religion, maſſacring thoſe of their owne Religion: the father moſt unnaturally ripping up the bowels of his ſonne, and the ſonne of the father, a brother beating out his brothers braines; kinſman againſt kinſman, friend a<g ref="char:EOLhyphen"/>gainſt friend, moſt barbarouſly and inhu<g ref="char:EOLhyphen"/>manely butchering one another: here a bullet, there a ſpeare, or Poleax ſeparating the ſoule and body in the very act of wrath and malice: the devouring Cannon heaping the mangled carcaſſes of horſe and man together. What ghaſtly lookes, what hideous ſcreekes, and
+<pb n="9" facs="tcp:125033:6"/>
+               <!-- PDF PAGE 22 -->diſmall groanes, what griſly gaping wounds of dying men, beſmeared with blood and dirt, doe even affright and terrifie the hearers and ſpectators, though their enemies. What out-cries, teares and ſighes by new-made wid<g ref="char:EOLhyphen"/>dowes for their husbands deaths? What mournings by aged parents for their ſlaugh<g ref="char:EOLhyphen"/>tred ſonnes? What lamentation by poore di<g ref="char:EOLhyphen"/>ſtreſſed children made fatherleſſe by warre? What pillaging, plundrings, rapines, murders, maſſacres, by the cruell, barbarous, and bloo<g ref="char:EOLhyphen"/>dy ſouldier? No liberty left us of ploughing, ſowing, trafficking, or trading one with the other.</p>
+            <p>That with the induſtrious and painefull tradeſman, or husbandman, hath with much labour and paines gathered together, to be the ſtaffe and comfort of their age, and to be a portion and proviſion for their children, in an inſtant becomes the prey and ſpoyle of a few mercileſſe men. And all theſe miſeries uſually ſeconded by peſtilence and famine. Let us looke upon the miſerable condition of <hi>Samaria,</hi> beſeiged by the <hi>Syrians,</hi> when by rea<g ref="char:EOLhyphen"/>ſon of the warre, the famine was ſo great,<note place="margin">2 Kings 6.25.</note> 
+               <hi>that an aſſes head was ſold for foureſcore pieces of ſilver, and the fourth part of a kabb of doves dung, for five peeces of ſilver.</hi> Nay women did eate their owne children, as appeares by a womans com<g ref="char:EOLhyphen"/>plaint to the King of <hi>Iſrael. And ſhe anſwered,</hi>
+               <note place="margin">verſe 28.29.</note>
+               <pb n="10" facs="tcp:125033:7"/>
+               <!-- PDF PAGE 23 -->
+               <hi>this woman ſayd unto me, give thy ſonne that wee may eate him to day, and we will eate my ſonne to morrow, ſo we boyled my ſonne and did eate him, and ſaid into her on the next day, give thy ſonne that we may eate him, and ſhe hath hid her ſonne.</hi>
+            </p>
+            <p>Let us behold the miſeries of <hi>Germany,</hi> a Kingdome once as famous and flouriſhing as ours lately was, but hath now ſuffered the mi<g ref="char:EOLhyphen"/>ſeries of almoſt 20 yeares warre: where many ſtately Townes and Cities have beene burnt to the ground, women raviſhed even in the very Churches, and after hewen in peeces: mens eares and noſes cut off, and ſtrings put through them, to make hat-bands: holes made in the legges and armes of men, and cords drawne through them, their guts pulled out at their mouthes children toſt on the points of ſpeares; and ſo great hath the famine beene in ſome part thereof, that the people have beene glad to eate dogges, cats, dead men, and all manner of carrion for foode.</p>
+            <p>Nay let us goe no further then bleeding <hi>Ireland,</hi> (which now ſuffers for our diſtraction here) and we ſhall finde their miſeries not be<g ref="char:EOLhyphen"/>hinde thoſe of <hi>Germany,</hi> where after they had beaten out the husbands braines, they raviſhed the wiſe, and then ripping her up being with childe, caſt the childe into the fire: raviſhing maides and women before their parents and husbands faces: driving men and women na<g ref="char:EOLhyphen"/>ked
+<pb n="11" facs="tcp:125033:7"/>
+               <!-- PDF PAGE 23 -->out of their houſes into the froſt and ſnow, where hundreds of them have periſhed with cold and famine, hanging ſome, and with moſt exquiſite tortures, mangling, gaſhing, and miſerably tormenting others, without all ſence of humanitie. And God Almighty knowes how ſoone it may bee our turnes to ſuffer the like, or worſe calamities, unleſſe we endeavour to prevent it, by applying all our diligence, induſtry, and affections towards the procuring of a Peace, while it may bee had. The long continued warre in <hi>Germany</hi> ſhewes us, Peace is not eaſie to be obtained, when a ſmaller Army then ours, on either ſide, hath beene for many yeares together attempted to be removed, but without ſucceſſe. Neither doth God alwayes bleſſe either the greater or the better ſide with victory. For we have ma<g ref="char:EOLhyphen"/>ny examples in Scripture where great Armies have beene overcome with ſmaller numbers: and our <hi>Saviour</hi> himſelfe tells you, <hi>that the Galileans whoſe blood Pilate had mingled with their ſacrifices, were not ſinners above all the Galileans,</hi>
+               <note place="margin">Luke 13.1, 2, 3, 4.</note> 
+               <hi>becauſe they ſuffered ſuch things; nor thoſe</hi> 18. <hi>upon whom the tower of Sh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loh fell and ſlue, ſinners above all men that dwelt in Ieruſalem:</hi> which ſhewes they are not always the greateſt ſinners, whom God ſuffers to periſh here. Let us therefore uſe all poſſible endeavours for a peace, and for prevention of farther ſhedding of blood; leaſt
+<pb n="12" facs="tcp:125033:8"/>
+               <!-- PDF PAGE 24 -->by lamentable experience we finde our ſelves included within that heavie judgement pro<g ref="char:EOLhyphen"/>nounced by our <hi>Saviour,</hi> which is, that <hi>All they that take the ſword ſhall periſh with the ſword.</hi>
+               <note place="margin">Mat. 26.52.</note>
+            </p>
+            <trailer>FINIS.</trailer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>interlaced inverted triangle</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:125033:8"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
